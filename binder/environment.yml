@@ -1,0 +1,8 @@
+name: tacosdedatos-mapa-pylatam-2019
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - altair=2.3.*
+  - pandas=0.24.*
+  - geopandas=0.4.*
