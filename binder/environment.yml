@@ -2,6 +2,7 @@ name: tacosdedatos-mapa-pylatam-2019
 channels:
   - conda-forge
 dependencies:
-  - geopandas=0.4.*
+  - python=3.7
+  - geopandas
   - altair=2.3.*
   - pandas=0.24.*
